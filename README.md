@@ -110,9 +110,6 @@ Loss curves across models tell a consistent story: the proposed CNN–LSTM conve
 
 Shorter windows generally performed best — consistent with the model's reliance on fast-adapting, trend-following features (see Feature Importance below).
 
-<img width="1350" height="750" alt="model_comparison_rmse" src="https://github.com/user-attachments/assets/ad8936e3-f558-430b-858c-fa396962c452" />
-
-
 ### Example: NFLX prediction (window = 10)
 
 RMSE: 29.93 · MAPE: 2.40% · MAE: 21.43 · **R² = 0.976** 
